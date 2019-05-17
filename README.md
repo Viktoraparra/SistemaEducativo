@@ -1,2 +1,0 @@
-# SistemaEducativo
-Sistema Educativo inscripciones
